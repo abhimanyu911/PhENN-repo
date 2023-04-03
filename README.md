@@ -7,6 +7,12 @@ An autoencoder approach to recover images from noise and blurring
 2. You will be asked to select a fine-tuning and main-dataset directory in the form of popup menus in order to create and save input-output image pairs to those directories
 3. Run VisualiseResults.py after training and prediction is complete - select testing set directory and results will be plotted using random input selection
 
+
+# Examples results
+
+![](./results/Figure_10.png)
+
+
 # Dependencies 
 
 Python 3
