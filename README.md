@@ -8,7 +8,7 @@ An autoencoder approach to recover images from noise and blurring
 3. Run VisualiseResults.py after training and prediction is complete - select testing set directory and results will be plotted using random input selection
 
 
-# Examples results
+# Example results
 
 ![](./results/Figure_10.png)
 
